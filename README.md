@@ -3,3 +3,5 @@ Collection of all notebooks and files used in implementing DL algorithms and str
 
 1. [VGG-16 - Implementation: ](https://github.com/prateekgrover-in/DeepLearning/blob/master/VGG16_CIFAR_100.ipynb) Training a Deep Neural Network (VGG 16) for Image Classification on CIFAR - 100 Dataset.
 2. [Style Transfer: ](https://github.com/prateekgrover-in/DeepLearning/blob/master/Style_Transfer.ipynb) Using pretrained VGG-19 to Modify an image according to another style image.
+3. [Variational Autoencoders: ](https://github.com/prateekgrover-in/DeepLearning/blob/master/Variational_Autoencoder.ipynb) Creating a distribution of MNIST Dataset through the use of VAE.
+4. [Generative Adversarial Networks: ] (https://github.com/prateekgrover-in/DeepLearning/blob/master/Generative_Adversarial_Network.ipynb) Using Fashion MNIST Dataset to generate articles of clothing. 
